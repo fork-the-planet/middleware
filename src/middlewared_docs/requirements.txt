@@ -9,7 +9,7 @@ docutils==0.19
 htmlmin==0.1.12
 idna==3.10
 imagesize==1.4.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 json-schema-for-humans==1.0.2
 markdown2==2.5.1
 MarkupSafe==2.1.5
